@@ -29,7 +29,7 @@ const Navbar = () => {
               <li className="bg-white text-orange-500 hover:bg-white-600 font-medium rounded-3xl">
                 <Link to='/tasks/add' className='block w-full h-full px-3 py-2'> <i className="fa-solid fa-plus"></i> Add task </Link>
               </li>
-              <li className=' bg-white text-orange-500 py-2 px-5  cursor-pointer hover:bg-white transition rounded-sm rounded-3xl' onClick={handleLogoutClick}>Logout</li>
+              <li className=' bg-white text-orange-500 py-2 px-5  cursor-pointer hover:bg-white transition  rounded-3xl' onClick={handleLogoutClick}>Logout</li>
             </>
           ) : (
             <li className='py-2 px-3 cursor-pointer text-orange-700 bg-gray-100 transition rounded-2xl  py-2 px-9'><Link to="/login">Login</Link></li>
