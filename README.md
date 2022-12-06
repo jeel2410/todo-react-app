@@ -12,8 +12,6 @@ A MERN application for basic tasks management.
 * [Backend API](#backend-api)
 * [frontend pages](#frontend-pages)
 * [npm scripts](#npm-scripts)
-* [Useful Links](#useful-links)
-* [Contact](#contact)
 
 
 ## Features
@@ -151,32 +149,3 @@ Inside backend folder:
 - `npm run dev`: Starts backend using nodemon.
 - `npm start`: Starts backend without nodemon.
 
-
-## Useful Links
-- This project
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
-
-- Official Docs
-  - Reactjs docs: https://reactjs.org/docs/getting-started.html
-  - npmjs docs: https://docs.npmjs.com/
-  - Mongodb docs: https://docs.mongodb.com/manual/introduction/
-  - Github docs: https://docs.github.com/en/get-started/quickstart/hello-world
-
-- Youtube tutorials
-  - Expressjs: https://youtu.be/L72fhGm1tfE
-  - React: https://youtu.be/EHTWMpD6S_0
-  - Redux: https://youtu.be/1oU_YGhT7ck
-
-- Download links
-  - Nodejs download: https://nodejs.org/
-  - VS Code download: https://code.visualstudio.com/
-
-- Cheatsheets
-  - Git cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
-  - VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-  - CSS Selectors Cheatsheet: https://frontend30.com/css-selectors-cheatsheet/
-
-
-## Contact
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
